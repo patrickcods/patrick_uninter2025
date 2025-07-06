@@ -1,3 +1,7 @@
+/* ========================
+   === MENU E NAVEGAÇÃO ===
+   ======================== */
+
 .menu{
     border-color: black;
     margin: 0px;
@@ -7,6 +11,7 @@
     width: 500px;
 }
 
+/* Estilização da lista */
 .lista{
     list-style-type: none;
     font-size: 23px;
@@ -31,6 +36,8 @@ li a{
 #formacao{
     color: white;
 }
+
+/* Efeito hover para itens do menu */
 #formacao:hover{
     color: black;
     background-color: white;
@@ -39,6 +46,8 @@ li a{
 #portfolio{
     color: white;
 }
+
+/* Efeito hover para itens do menu */
 #portfolio:hover{
    color: black;
     background-color: white; 
@@ -48,6 +57,7 @@ li a{
     color: white;
 }
 
+/* Efeito hover para itens do menu */
 #contato:hover{
     color: black;
     background-color: white;
@@ -58,6 +68,8 @@ li a{
 #sobremim{
     color: white;
 }
+
+/* Efeito hover para itens do menu */
 #sobremim:hover{
     color: black;
     background-color: white;
@@ -76,10 +88,15 @@ li a{
 
 }
 
+/* Efeito hover para itens do menu */
 #voltarmenu:hover{
     color:black;  
 }
 
+
+/* ========================
+   === CONTEÚDO DO SITE ===
+   ======================== */
 h1 {
     display: block;
     background-color: aliceblue;
